@@ -1,4 +1,4 @@
-- # Hi there, I'm VirtusDakura! 👋
+- # Hi there, I'm Virtus Dakura! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer looking to learn new things and tackle exciting projects. Here's a little bit about me:
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer looking to learn new th
 - 🌱 Currently learning more about front-end development and web development.
 - 👯 Looking to collaborate on open-source projects and innovative startups.
 - 💬 Ask me about Python, JavaScript, and web development frameworks.
-- 📫 How to reach me: [virtusdakura@example.com](mailto:dakuravirtus@gmail.com)
+- 📫 How to reach me: [dakuravirtus@gmail.com](mailto:dakuravirtus@gmail.com)
 - ⚡ Fun fact: I love watching movies and researching to solve problems in my free time.
 
 ## 🛠️ Technologies & Tools
@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer looking to learn new th
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
 
