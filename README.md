@@ -1,4 +1,4 @@
-- # Hi there, I'm Virtus Dakura! 👋
+# Hi there, I'm Virtus Dakura! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer looking to learn new things and tackle exciting projects. Here's a little bit about me:
 
