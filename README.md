@@ -21,7 +21,6 @@ I'm a passionate full-stack developer who thrives on turning complex problems in
 - 💬 **Let's talk about:** JavaScript, Python, React, web development, and emerging tech trends
 - � **Get in touch:** [dakuravirtus@gmail.com](mailto:dakuravirtus@gmail.com)
 - ⚡ **Beyond coding:** Movie enthusiast, problem-solving researcher, and lifelong learner
-- 🎯 **2024 Goal:** Contribute to 10+ open-source projects and build 5 production-ready applications
 
 ## 🛠️ Tech Stack & Tools
 
