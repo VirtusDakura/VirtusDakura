@@ -13,9 +13,9 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a passionate full-stack developer who thrives on turning complex problems into elegant solutions. Currently diving deep into modern web technologies and exploring the endless possibilities of code.
+I'm a passionate Software Engineer who thrives on turning complex problems into elegant solutions. Currently diving deep into modern web technologies and exploring the endless possibilities of code.
 
-- 🔭 **Currently working on:** Portfolio website and React-based web applications
+- 🔭 **Currently working on:** Full-Stack Applications
 - 🌱 **Learning journey:** Advanced React patterns, Node.js, and cloud technologies
 - 👯 **Collaboration:** Open to contributing to open-source projects and innovative startups
 - 💬 **Let's talk about:** JavaScript, Python, React, web development, and emerging tech trends
