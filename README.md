@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there! I'm Virtus Dakura</h1>
-  <h3>� Software Engineer | Problem Solver | Tech Enthusiast</h3>
+  <h3>💻 Software Engineer | Problem Solver | Tech Enthusiast</h3>
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+learning+new+things;Open+to+collaborating+on+projects;Building+the+future+with+code" alt="Typing SVG" />
