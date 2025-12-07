@@ -50,7 +50,7 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 
 </div>
 
-## � GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VirtusDakura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
@@ -71,7 +71,7 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
   <img src="https://github-profile-trophy.vercel.app/?username=VirtusDakura&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## � Featured Projects
+## Featured Projects
 
 <div align="center">
   
