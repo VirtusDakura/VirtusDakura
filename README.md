@@ -18,7 +18,7 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 - 🔭 **Currently working on:** Full-Stack Applications
 - 🌱 **Learning journey:** Advanced React patterns, Node.js, and cloud technologies
 - 👯 **Collaboration:** Open to contributing to open-source projects and innovative startups
-- 💬 **Let's talk about:** JavaScript, Python, React, web development, and emerging tech trends
+- 💬 **Let's talk about:** JavaScript, Python, React, web development, Software Engineering, and emerging tech trends
 - � **Get in touch:** [dakuravirtus@gmail.com](mailto:dakuravirtus@gmail.com)
 - ⚡ **Beyond coding:** Movie enthusiast, problem-solving researcher, and lifelong learner
 
