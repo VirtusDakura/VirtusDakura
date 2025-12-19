@@ -91,7 +91,7 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
         <p><strong>React, Vite, TailwindCSS</strong> - A modern, responsive portfolio showcasing my projects and skills with smooth animations and interactive elements.</p>
       </td>
       <td width="50%">
-        <h3 align="center">🔥 Coming Soon</h3>
+        <h3 align="center">🔥 Ongoing Projects</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="In Development"/>
         </div>
