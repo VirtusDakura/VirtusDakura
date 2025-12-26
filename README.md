@@ -3,7 +3,7 @@
   <h3>💻 Software Engineer | Problem Solver | Tech Enthusiast</h3>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+learning+new+things;Open+to+collaborating+on+projects;Building+the+future+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+learning+new+things;Open+to+collaborating[...]" />
   </p>
 </div>
 
@@ -19,7 +19,7 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 - 🌱 **Learning journey:** Advanced React patterns, Node.js, and cloud technologies
 - 👯 **Collaboration:** Open to contributing to open-source projects and innovative startups
 - 💬 **Let's talk about:** JavaScript, Python, React, web development, Software Engineering, and emerging tech trends
-- � **Get in touch:** [dakuravirtus@gmail.com](mailto:dakuravirtus@gmail.com)
+- 📧 **Get in touch:** [dakuravirtus@gmail.com](mailto:dakuravirtus@gmail.com)
 - ⚡ **Beyond coding:** Movie enthusiast, problem-solving researcher, and lifelong learner
 
 ## 🛠️ Tech Stack & Tools
@@ -29,13 +29,16 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Technologies
@@ -46,11 +49,12 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VirtusDakura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
@@ -71,7 +75,7 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
   <img src="https://github-profile-trophy.vercel.app/?username=VirtusDakura&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## Featured Projects
+## 💼 Featured Projects
 
 <div align="center">
   
