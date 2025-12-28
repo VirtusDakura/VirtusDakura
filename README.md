@@ -87,7 +87,7 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
           <a href="https://github.com/VirtusDakura/portfolio" target="_blank">
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github" alt="GitHub"/>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://virtus-dakura.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo"/>
           </a>
         </div>
