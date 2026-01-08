@@ -79,32 +79,31 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌟 Portfolio Website</h3>
-        <div align="center">  
-          <a href="https://github.com/VirtusDakura/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github" alt="GitHub"/>
-          </a>
-          <a href="https://virtus-dakura.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
-        </div>
-        <br>
-        <p><strong>React, Vite, TailwindCSS</strong> - A modern, responsive portfolio showcasing my projects and skills with smooth animations and interactive elements.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔥 Ongoing Projects</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="In Development"/>
-        </div>
-        <br>
-        <p><strong>Full-Stack Application</strong> - Exciting new project coming soon! Stay tuned for updates.</p>
-      </td>
-    </tr>
-  </table>
-  
+### 🌟 Portfolio Website
+**React • Vite • CSS**
+
+A modern, responsive portfolio showcasing my projects and skills with smooth animations and interactive elements.
+
+[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github)](https://github.com/VirtusDakura/portfolio)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://virtus-dakura.vercel.app/)
+
+---
+
+### ✅ TaskMaster Pro - To-Do List Application
+**JavaScript • HTML5 • CSS3**
+
+A feature-rich task management app with priority levels, due dates, project categories, dark mode, drag & drop, statistics dashboard, and data export/import functionality.
+
+**Features:** Smart filtering • Multiple sort options • Search • Local storage • Responsive design
+
+---
+
+### 🎮 Rock Paper Scissors Game
+**JavaScript • HTML • CSS**
+
+Interactive game with score tracking, emoji-based moves, and localStorage persistence. Clean UI with smooth animations and real-time game state updates.
+
+
 </div>
 
 ## 📚 Learning Journey
