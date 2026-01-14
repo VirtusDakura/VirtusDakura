@@ -103,6 +103,28 @@ A feature-rich task management app with priority levels, due dates, project cate
 
 Interactive game with score tracking, emoji-based moves, and localStorage persistence. Clean UI with smooth animations and real-time game state updates.
 
+---
+
+### 📱 Daily Accountability Bot
+**WhatsApp API • Node.js • Express • MongoDB**
+
+An intelligent WhatsApp bot that helps users stay accountable to their daily goals and habits. Sends automated reminders, tracks progress, and provides motivational messages.
+
+**Features:** Daily check-ins • Goal tracking • Progress analytics • Custom reminders • Motivational quotes • Streak tracking • WhatsApp integration
+
+**Tech Stack:** Twilio WhatsApp API • Node.js • Express.js • MongoDB • Cron Jobs • Natural Language Processing
+
+---
+
+### 🛒 AI E-Commerce Chat Assistant
+**Gemini API • React • Node.js • MongoDB**
+
+A smart conversational AI assistant for e-commerce platforms that helps customers find products, answer queries, and complete purchases through natural conversations.
+
+**Features:** Product recommendations • Order tracking • Smart search • Cart management • Payment assistance • 24/7 support • Multi-language support
+
+**Tech Stack:** Gemini API • React.js • Node.js • Express.js • PostgreSQL • WebSocket • Stripe API
+
 
 </div>
 
