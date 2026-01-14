@@ -77,54 +77,70 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 
 ## 💼 Featured Projects
 
-<div align="center">
-  
+<table>
+<tr>
+<td width="50%">
+
 ### 🌟 Portfolio Website
 **React • Vite • CSS**
 
-A modern, responsive portfolio showcasing my projects and skills with smooth animations and interactive elements.
+Modern, responsive portfolio with smooth animations and interactive elements.
 
-[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github)](https://github.com/VirtusDakura/portfolio)
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://virtus-dakura.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-Repository-blue?style=flat-square&logo=github)](https://github.com/VirtusDakura/portfolio)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel)](https://virtus-dakura.vercel.app/)
 
----
+</td>
+<td width="50%">
 
-### ✅ TaskMaster Pro - To-Do List Application
+### ✅ TaskMaster Pro
 **JavaScript • HTML5 • CSS3**
 
-A feature-rich task management app with priority levels, due dates, project categories, dark mode, drag & drop, statistics dashboard, and data export/import functionality.
+Feature-rich task manager with priority levels, dark mode, drag & drop, and statistics dashboard.
 
-**Features:** Smart filtering • Multiple sort options • Search • Local storage • Responsive design
+**Key:** Smart filtering • Local storage • Responsive
 
----
+</td>
+</tr>
 
-### 🎮 Rock Paper Scissors Game
-**JavaScript • HTML • CSS**
-
-Interactive game with score tracking, emoji-based moves, and localStorage persistence. Clean UI with smooth animations and real-time game state updates.
-
----
+<tr>
+<td width="50%">
 
 ### 📱 Daily Accountability Bot
-**WhatsApp API • Node.js • Express • MongoDB**
+**WhatsApp API • Node.js • MongoDB**
 
-An intelligent WhatsApp bot that helps users stay accountable to their daily goals and habits. Sends automated reminders, tracks progress, and provides motivational messages.
+WhatsApp bot for daily goal tracking with automated reminders and progress analytics.
 
-**Features:** Daily check-ins • Goal tracking • Progress analytics • Custom reminders • Motivational quotes • Streak tracking • WhatsApp integration
+**Key:** Twilio API • Cron Jobs • Streak tracking
 
-**Tech Stack:** Twilio WhatsApp API • Node.js • Express.js • MongoDB • Cron Jobs • Natural Language Processing
+</td>
+<td width="50%">
 
----
+### 🛒 AI E-Commerce Assistant
+**Gemini API • React • Node.js**
 
-### 🛒 AI E-Commerce Chat Assistant
-**Gemini API • React • Node.js • MongoDB**
+AI-powered chat assistant for e-commerce with product recommendations and 24/7 support.
 
-A smart conversational AI assistant for e-commerce platforms that helps customers find products, answer queries, and complete purchases through natural conversations.
+**Key:** Gemini API • WebSocket • Multi-language
 
-**Features:** Product recommendations • Order tracking • Smart search • Cart management • Payment assistance • 24/7 support • Multi-language support
+</td>
+</tr>
 
-**Tech Stack:** Gemini API • React.js • Node.js • Express.js • PostgreSQL • WebSocket • Stripe API
+<tr>
+<td width="50%">
 
+### 🎮 Rock Paper Scissors
+**JavaScript • HTML • CSS**
+
+Interactive game with score tracking, localStorage persistence, and smooth animations.
+
+**Key:** Real-time updates • Clean UI
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 </div>
 
