@@ -150,10 +150,10 @@ Interactive game with score tracking, localStorage persistence, and smooth anima
 
 ```javascript
 const virtus = {
-    currentFocus: ["React Advanced Patterns", "Node.js APIs", "Database Design"],
-    nextGoals: ["TypeScript", "Cloud Computing", "Mobile Development"],
-    currentlyReading: "Clean Code by Robert Martin",
-    motto: "Every expert was once a beginner. Every pro was once an amateur."
+    currentFocus: ["System Design", "Software Architecture", "Distributed Systems"],
+    nextGoals: ["Microservices Architecture", "Cloud Infrastructure", "Performance Optimization"],
+    currentlyReading: "Designing Data-Intensive Applications by Martin Kleppmann",
+    motto: "Great architecture is not about the code, it's about the decisions."
 };
 ```
 
@@ -161,11 +161,12 @@ const virtus = {
 
 ## 🎯 Current Goals
 
-- 🔥 **Master React Ecosystem:** Advanced hooks, context, and state management
-- 🌐 **Backend Development:** Building robust APIs with Node.js and Express
-- 📱 **Responsive Design:** Creating seamless user experiences across all devices
-- 🤝 **Open Source:** Contributing to meaningful projects in the community
-- 📖 **Continuous Learning:** Staying updated with the latest web technologies
+- 🏗️ **System Design Mastery:** Designing scalable, distributed systems and understanding design patterns
+- 🔧 **Software Architecture:** Building maintainable architectures (microservices, event-driven, clean architecture)
+- 📊 **Infrastructure & DevOps:** Cloud platforms, containerization, CI/CD pipelines, and orchestration
+- 🔐 **Security & Performance:** Implementing security best practices and optimizing system performance
+- 🤝 **Open Source:** Contributing to architectural discussions and meaningful projects in the community
+- 📖 **Continuous Learning:** Deep diving into system design patterns, scalability, and engineering excellence
 
 ## 🔗 Let's Connect & Collaborate
 
