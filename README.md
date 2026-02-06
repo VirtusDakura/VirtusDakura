@@ -1,4 +1,4 @@
-# �‍💻 Virtus Dakura
+# 💻 Virtus Dakura
 
 **Software Engineer** · **System Designer** · **Problem Solver**
 
