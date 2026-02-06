@@ -1,198 +1,74 @@
-<div align="center">
-  <h1>👋 Hey there! I'm Virtus Dakura</h1>
-  <h3>💻 Software Engineer | Problem Solver | Tech Enthusiast</h3>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Always+learning+new+things;Open+to+collaborating[...]" />
-  </p>
-</div>
+# �‍💻 Virtus Dakura
 
----
+**Software Engineer** · **System Designer** · **Problem Solver**
 
-## 🚀 About Me
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-I'm a passionate Software Engineer who thrives on turning complex problems into elegant solutions. Currently diving deep into modern web technologies and exploring the endless possibilities of code.
-
-- 🔭 **Currently working on:** Full-Stack Applications
-- 🌱 **Learning journey:** Advanced React patterns, Node.js, and cloud technologies
-- 👯 **Collaboration:** Open to contributing to open-source projects and innovative startups
-- 💬 **Let's talk about:** JavaScript, Python, React, web development, Software Engineering, and emerging tech trends
-- 📧 **Get in touch:** [dakuravirtus@gmail.com](mailto:dakuravirtus@gmail.com)
-- ⚡ **Beyond coding:** problem-solving researcher, Self-Help books lover, and lifelong learner
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirtusDakura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtusDakura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirtusDakura&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VirtusDakura&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VirtusDakura&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Portfolio Website
-**React • Vite • CSS**
-
-Modern, responsive portfolio with smooth animations and interactive elements.
-
-[![Code](https://img.shields.io/badge/Code-Repository-blue?style=flat-square&logo=github)](https://github.com/VirtusDakura/portfolio)
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel)](https://virtus-dakura.vercel.app/)
-
-</td>
-<td width="50%">
-
-### ✅ TaskMaster Pro
-**JavaScript • HTML5 • CSS3**
-
-Feature-rich task manager with priority levels, dark mode, drag & drop, and statistics dashboard.
-
-**Key:** Smart filtering • Local storage • Responsive
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📱 Daily Accountability Bot
-**WhatsApp API • Node.js • MongoDB**
-
-WhatsApp bot for daily goal tracking with automated reminders and progress analytics.
-
-**Key:** Twilio API • Cron Jobs • Streak tracking
-
-</td>
-<td width="50%">
-
-### 🛒 AI E-Commerce Assistant
-**Gemini API • React • Node.js**
-
-AI-powered chat assistant for e-commerce with product recommendations and 24/7 support.
-
-**Key:** Gemini API • WebSocket • Multi-language
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎮 Rock Paper Scissors
-**JavaScript • HTML • CSS**
-
-Interactive game with score tracking, localStorage persistence, and smooth animations.
-
-**Key:** Real-time updates • Clean UI
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📚 Learning Journey
-
-<div align="center">
-
-```javascript
-const virtus = {
-    currentFocus: ["System Design", "Software Architecture", "Distributed Systems"],
-    nextGoals: ["Microservices Architecture", "Cloud Infrastructure", "Performance Optimization"],
-    currentlyReading: "Designing Data-Intensive Applications by Martin Kleppmann",
-    motto: "Great architecture is not about the code, it's about the decisions."
-};
-```
-
-</div>
-
-## 🎯 Current Goals
-
-- 🏗️ **System Design Mastery:** Designing scalable, distributed systems and understanding design patterns
-- 🔧 **Software Architecture:** Building maintainable architectures (microservices, event-driven, clean architecture)
-- 📊 **Infrastructure & DevOps:** Cloud platforms, containerization, CI/CD pipelines, and orchestration
-- 🔐 **Security & Performance:** Implementing security best practices and optimizing system performance
-- 🤝 **Open Source:** Contributing to architectural discussions and meaningful projects in the community
-- 📖 **Continuous Learning:** Deep diving into system design patterns, scalability, and engineering excellence
-
-## 🔗 Let's Connect & Collaborate
-
-<div align="center">
+I build software that solves real problems. From full-stack web applications to distributed systems, I'm passionate about crafting clean, scalable solutions and constantly pushing the boundaries of what's possible with code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virtus-dakura/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/virtusdakura)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakuravirtus@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VirtusDakura)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VirtusDakura&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VirtusDakura)
 
 ---
 
-<div align="center">
-  <h3>💫 "Code is poetry written in logic" 💫</h3>
-  <p><em>Thanks for stopping by! Let's build something amazing together! 🚀</em></p>
-  
-  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-</div>
+### What I'm Up To
 
-<!---
-VirtusDakura/VirtusDakura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔨 Building full-stack applications with modern frameworks
+- 📐 Diving deep into system design & software architecture
+- ☁️ Exploring cloud infrastructure and DevOps practices
+- 🤝 Open to collaborating on innovative projects
+
+---
+
+### Tech I Work With
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VirtusDakura&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtusDakura&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VirtusDakura&theme=github-dark&hide_border=true)](https://github.com/VirtusDakura)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VirtusDakura&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+</p>
