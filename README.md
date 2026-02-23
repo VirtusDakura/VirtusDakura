@@ -61,8 +61,8 @@ I build software that solves real problems. From full-stack web applications to 
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VirtusDakura&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtusDakura&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=VirtusDakura&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=VirtusDakura&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VirtusDakura&theme=github-dark&hide_border=true&cache_seconds=86400)](https://github.com/VirtusDakura)
