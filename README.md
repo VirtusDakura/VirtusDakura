@@ -60,6 +60,10 @@ I build software that solves real problems. From full-stack web applications to 
 
 ### GitHub
 
+<p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtusDakura&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
 - Profile: [github.com/VirtusDakura](https://github.com/VirtusDakura)
 - Contributions (last year): [github.com/users/VirtusDakura/contributions](https://github.com/users/VirtusDakura/contributions)
 - Repositories: [github.com/VirtusDakura?tab=repositories](https://github.com/VirtusDakura?tab=repositories)
