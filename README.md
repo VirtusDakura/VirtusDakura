@@ -61,14 +61,10 @@ I build software that solves real problems. From full-stack web applications to 
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=VirtusDakura&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=VirtusDakura&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Contribution Stats" height="165"/>
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=VirtusDakura&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VirtusDakura&theme=github-dark&hide_border=true)](https://github.com/VirtusDakura)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VirtusDakura&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VirtusDakura&theme=github-dark&hide_border=true&hide_title=true&line=58a6ff&point=1f6feb&color=58a6ff&bg_color=0d1117" alt="Contribution Graph" height="165"/>
 </p>
